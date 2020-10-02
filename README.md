@@ -67,3 +67,7 @@ Finally, to utilize the Bootstrap grid in your webpage you must use the followin
   
 ## License
   MIT
+
+## Acknowledgements
+James Bosworth - "Sliding Perspective" animation was used on my index page.
+    - https://codepen.io/AdamDipinto/pen/EqxaEO
