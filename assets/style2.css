@@ -76,6 +76,12 @@ html {
       
 
       .fas {
-        border: 1px solid white;
         margin: 0 auto;
+        color: white;
+        position: fixed;
+        bottom: 0;
+        right: 20px;
+        padding-bottom: 20px;
+        padding-top: 20px;
       }
+      
