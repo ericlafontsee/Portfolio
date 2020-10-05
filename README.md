@@ -1,8 +1,9 @@
-# Updated-Portfolio
+# Portfolio
 
 ## Description
 For this project, I created an updated version of my existing portfolio.
-The portfolio content now includes 4 of my best projects with screenshots and links to each respective GitHub repo and the deployed version.
+I added a new animation to the index page and updated the portfolio content.
+The portfolio content now includes 8 of my best projects with screenshots and links to each respective GitHub repo and the deployed version. For the command line appilications, I've provided a link to a demo.
 My portfolio also includes a resume page with a downloadable version and links to GitHub and  LinkedIn.
 Finally, I updated the styling of the portfolio with my own color scheme and background and made sure 
 this project was mobile responsive.  
@@ -10,10 +11,10 @@ The rest of the assignment was updating and improving our Github, LinkedIn, and 
 
 
 My portfolio is deployed to GitHub Pages:  
-https://ericlafontsee.github.io/Updated-Portfolio/
+https://ericlafontsee.github.io/Portfolio/
 
 ## Usage
-![image](assets/images/Updated_Portfolio.gif)
+![image](assets/images/Portfolio-Demo.gif)
 
 ## Built With
 Bootstrap  
